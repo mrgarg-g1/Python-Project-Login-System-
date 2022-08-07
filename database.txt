@@ -1,0 +1,26 @@
+requirement : Having a Mysql 8.0 installed in your system.
+
+official site for mysql downloading : 
+link - https://dev.mysql.com/downloads/installer/
+ 
+steps to download and install :
+https://www.javatpoint.com/how-to-install-mysql
+
+
+#REQUIREMENT TO CREATE TABLE IN MysqL
+
+step1: create database office;
+step2: use database office;
+step3: create table login(username varchar(50),password(varchar(50));
+step4: insert into login values("admin","123");
+step5: select * from login;
+//
+
+NOW THE USERNAME IS admin AND PASSWORD IS 123
+
+
+
+
+
+
+
