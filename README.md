@@ -24,7 +24,7 @@ Download project.
 
 Extract project.
 
-Double click in main.py. ///after connecting with database
+Double click on main.py. ///after connecting with database
 
 Project is running
 
